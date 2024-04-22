@@ -146,10 +146,22 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Start\RouteConfig.cs" />
-    <Compile Include="Controllers\HommeController.cs" />
+    <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Enums\SortByGenre.cs" />
+    <Compile Include="Enums\SortByPrice.cs" />
+    <Compile Include="Enums\User.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="ModelsFrontend\CartData.cs" />
+    <Compile Include="ModelsFrontend\CheckOutData.cs" />
+    <Compile Include="ModelsFrontend\ContactData.cs" />
+    <Compile Include="ModelsFrontend\ProductQuantity.cs" />
+    <Compile Include="ModelsFrontend\ReviewData.cs" />
+    <Compile Include="ModelsFrontend\ShopProducts.cs" />
+    <Compile Include="ModelsFrontend\LoginData.cs" />
+    <Compile Include="ModelsFrontend\ProductData.cs" />
+    <Compile Include="ModelsFrontend\RegistrationData.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -249,13 +261,14 @@
     <Content Include="Assets\scss\style.scss" />
     <None Include="packages.config" />
     <Content Include="Views\_LayoutPage1.cshtml" />
-    <Content Include="Views\Homme\Index.cshtml" />
-    <Content Include="Views\Homme\Cart.cshtml" />
-    <Content Include="Views\Homme\Checkout.cshtml" />
-    <Content Include="Views\Homme\Login.cshtml" />
-    <Content Include="Views\Homme\Detail.cshtml" />
-    <Content Include="Views\Homme\Shop.cshtml" />
-    <Content Include="Views\Homme\Contact.cshtml" />
+    <Content Include="Views\Home\Index.cshtml" />
+    <Content Include="Views\Home\Cart.cshtml" />
+    <Content Include="Views\Home\Checkout.cshtml" />
+    <Content Include="Views\Home\Login.cshtml" />
+    <Content Include="Views\Home\Detail.cshtml" />
+    <Content Include="Views\Home\Shop.cshtml" />
+    <Content Include="Views\Home\Contact.cshtml" />
+    <Content Include="Views\Home\ThanksPage.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -265,7 +278,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Models\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
