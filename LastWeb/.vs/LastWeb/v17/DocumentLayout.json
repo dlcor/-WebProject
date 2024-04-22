@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\download\\LastWeb\\LastWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3655D062-4D8D-4ACC-913C-9E7F00FD28B7}|LastWeb.csproj|D:\\download\\LastWeb\\LastWeb\\views\\homme\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3655D062-4D8D-4ACC-913C-9E7F00FD28B7}|LastWeb.csproj|solutionrelative:views\\homme\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3655D062-4D8D-4ACC-913C-9E7F00FD28B7}|LastWeb.csproj|D:\\download\\LastWeb\\LastWeb\\views\\homme\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3655D062-4D8D-4ACC-913C-9E7F00FD28B7}|LastWeb.csproj|solutionrelative:views\\homme\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3655D062-4D8D-4ACC-913C-9E7F00FD28B7}|LastWeb.csproj|D:\\download\\LastWeb\\LastWeb\\views\\homme\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3655D062-4D8D-4ACC-913C-9E7F00FD28B7}|LastWeb.csproj|solutionrelative:views\\homme\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3655D062-4D8D-4ACC-913C-9E7F00FD28B7}|LastWeb.csproj|d:\\download\\lastweb\\lastweb\\views\\_layoutpage1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3655D062-4D8D-4ACC-913C-9E7F00FD28B7}|LastWeb.csproj|solutionrelative:views\\_layoutpage1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3655D062-4D8D-4ACC-913C-9E7F00FD28B7}|LastWeb.csproj|D:\\download\\LastWeb\\LastWeb\\views\\homme\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3655D062-4D8D-4ACC-913C-9E7F00FD28B7}|LastWeb.csproj|solutionrelative:views\\homme\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3655D062-4D8D-4ACC-913C-9E7F00FD28B7}|LastWeb.csproj|D:\\download\\LastWeb\\LastWeb\\controllers\\hommecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3655D062-4D8D-4ACC-913C-9E7F00FD28B7}|LastWeb.csproj|solutionrelative:controllers\\hommecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3655D062-4D8D-4ACC-913C-9E7F00FD28B7}|LastWeb.csproj|D:\\download\\LastWeb\\LastWeb\\views\\homme\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3655D062-4D8D-4ACC-913C-9E7F00FD28B7}|LastWeb.csproj|solutionrelative:views\\homme\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3655D062-4D8D-4ACC-913C-9E7F00FD28B7}|LastWeb.csproj|D:\\download\\LastWeb\\LastWeb\\views\\homme\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3655D062-4D8D-4ACC-913C-9E7F00FD28B7}|LastWeb.csproj|solutionrelative:views\\homme\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3655D062-4D8D-4ACC-913C-9E7F00FD28B7}|LastWeb.csproj|D:\\download\\LastWeb\\LastWeb\\views\\homme\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3655D062-4D8D-4ACC-913C-9E7F00FD28B7}|LastWeb.csproj|solutionrelative:views\\homme\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Shop.cshtml",
+              "DocumentMoniker": "D:\\download\\LastWeb\\LastWeb\\Views\\Homme\\Shop.cshtml",
+              "RelativeDocumentMoniker": "Views\\Homme\\Shop.cshtml",
+              "ToolTip": "D:\\download\\LastWeb\\LastWeb\\Views\\Homme\\Shop.cshtml",
+              "RelativeToolTip": "Views\\Homme\\Shop.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGIAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-20T10:53:08.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "D:\\download\\LastWeb\\LastWeb\\Views\\Homme\\Detail.cshtml",
+              "RelativeDocumentMoniker": "Views\\Homme\\Detail.cshtml",
+              "ToolTip": "D:\\download\\LastWeb\\LastWeb\\Views\\Homme\\Detail.cshtml",
+              "RelativeToolTip": "Views\\Homme\\Detail.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-20T10:50:42.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\download\\LastWeb\\LastWeb\\Views\\Homme\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Homme\\Login.cshtml",
+              "ToolTip": "D:\\download\\LastWeb\\LastWeb\\Views\\Homme\\Login.cshtml",
+              "RelativeToolTip": "Views\\Homme\\Login.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAEgAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-20T10:37:21.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Checkout.cshtml",
+              "DocumentMoniker": "D:\\download\\LastWeb\\LastWeb\\Views\\Homme\\Checkout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Homme\\Checkout.cshtml",
+              "ToolTip": "D:\\download\\LastWeb\\LastWeb\\Views\\Homme\\Checkout.cshtml",
+              "RelativeToolTip": "Views\\Homme\\Checkout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-20T10:36:36.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\download\\LastWeb\\LastWeb\\Views\\Homme\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Homme\\Index.cshtml",
+              "ToolTip": "D:\\download\\LastWeb\\LastWeb\\Views\\Homme\\Index.cshtml",
+              "RelativeToolTip": "Views\\Homme\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-20T10:12:43.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_LayoutPage1.cshtml",
+              "DocumentMoniker": "D:\\download\\LastWeb\\LastWeb\\Views\\_LayoutPage1.cshtml",
+              "RelativeDocumentMoniker": "Views\\_LayoutPage1.cshtml",
+              "ToolTip": "D:\\download\\LastWeb\\LastWeb\\Views\\_LayoutPage1.cshtml",
+              "RelativeToolTip": "Views\\_LayoutPage1.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-20T10:07:43.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HommeController.cs",
+              "DocumentMoniker": "D:\\download\\LastWeb\\LastWeb\\Controllers\\HommeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HommeController.cs",
+              "ToolTip": "D:\\download\\LastWeb\\LastWeb\\Controllers\\HommeController.cs",
+              "RelativeToolTip": "Controllers\\HommeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T10:06:08.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "D:\\download\\LastWeb\\LastWeb\\Views\\Homme\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Views\\Homme\\Contact.cshtml",
+              "ToolTip": "D:\\download\\LastWeb\\LastWeb\\Views\\Homme\\Contact.cshtml",
+              "RelativeToolTip": "Views\\Homme\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-20T10:54:58.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cart.cshtml",
+              "DocumentMoniker": "D:\\download\\LastWeb\\LastWeb\\Views\\Homme\\Cart.cshtml",
+              "RelativeDocumentMoniker": "Views\\Homme\\Cart.cshtml",
+              "ToolTip": "D:\\download\\LastWeb\\LastWeb\\Views\\Homme\\Cart.cshtml",
+              "RelativeToolTip": "Views\\Homme\\Cart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-20T10:33:50.626Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
