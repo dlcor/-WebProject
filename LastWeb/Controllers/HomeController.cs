@@ -1,9 +1,10 @@
-﻿using LastWeb.ModelsFrontend;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using LastWeb.Domain.Enums;
+using LastWeb.Domain.ModelsFrontend;
 
 namespace LastWeb.Controllers
 {
@@ -30,7 +31,7 @@ namespace LastWeb.Controllers
 
         /************************Registration*******************************/
         [HttpPost]
-        public ActionResult Registration(RegistrationData loginData)
+        public ActionResult Registration(RegistrationData registrationData)
         {
             if (ModelState.IsValid)
             {
@@ -38,12 +39,12 @@ namespace LastWeb.Controllers
             }
             else
             {
-                return View("Login",loginData);
+                return View(registrationData);
             }
         }
 
 
-        /************************Main Page*******************************/
+        /************************Main Page*******************************DONE*/
         public ActionResult Index()
         {
             ShopProducts shopProducts = null;
@@ -52,7 +53,7 @@ namespace LastWeb.Controllers
         }
 
 
-        /************************Open My Cart*******************************/
+        /************************Open My Cart*******************************Done*/
         public ActionResult Cart()
         {
             CartData cartData = null;
@@ -60,13 +61,13 @@ namespace LastWeb.Controllers
             return View(cartData);
         }
 
-        /************************Open Set Checkout data*******************************/
+        /************************Open Set Checkout data******************************DONE*/
         public ActionResult Checkout()
         {
             return View();
         }
 
-        /************************Check Validation*******************************/
+        /************************Check Validation******************************DONE*/
         [HttpPost]
         public ActionResult CheckOut(CheckOutData checkOutData)
         {
@@ -74,7 +75,7 @@ namespace LastWeb.Controllers
             {
                 //если успешно передаем покупку
                 //call bd, delete data from cart,add to delivery bd
-                return RedirectToAction("ThanksPage", "Home");
+                return RedirectToAction("Index", "Home");
             }
             else
             {
@@ -82,7 +83,8 @@ namespace LastWeb.Controllers
             }
         }
 
-        /************************Specified Product Openning*******************************/
+
+        /************************Specified Product Openning******************************DONE*/
         public ActionResult Detail(int? indexProduct)
         {
             if(indexProduct.HasValue)
@@ -96,31 +98,24 @@ namespace LastWeb.Controllers
             }
         }
 
-        /************************Open Shop*******************************/
+        /************************Open Shop******************************DONE*/
         public ActionResult Shop()
         {
             ShopProducts shopProducts = null;
 
             return View(shopProducts);
         }
+        
+        
 
-        /************************Contact US*******************************/
-        public ActionResult Contact()
-        {
-            return View();
-        }
-        [HttpPost]
-        public ActionResult Contact(ContactData contactData)
-        {
-            if (ModelState.IsValid)
-            {
-                return RedirectToAction("ThanksPageForFeedback", "Home");
-            }
-            else
-            {
-                return View(contactData);
-            }
-        }
+
+
+
+
+
+
+
+
 
 
 

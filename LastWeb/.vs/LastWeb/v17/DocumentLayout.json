@@ -3,48 +3,23 @@
   "WorkspaceRootPath": "D:\\Repositories\\-WebProject\\LastWeb\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3655D062-4D8D-4ACC-913C-9E7F00FD28B7}|LastWeb.csproj|d:\\repositories\\-webproject\\lastweb\\views\\_layoutpage1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3655D062-4D8D-4ACC-913C-9E7F00FD28B7}|LastWeb.csproj|solutionrelative:views\\_layoutpage1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3655D062-4D8D-4ACC-913C-9E7F00FD28B7}|LastWeb.csproj|d:\\repositories\\-webproject\\lastweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3655D062-4D8D-4ACC-913C-9E7F00FD28B7}|LastWeb.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3655D062-4D8D-4ACC-913C-9E7F00FD28B7}|LastWeb.csproj|d:\\repositories\\-webproject\\lastweb\\modelsfrontend\\shopproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3655D062-4D8D-4ACC-913C-9E7F00FD28B7}|LastWeb.csproj|solutionrelative:modelsfrontend\\shopproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3655D062-4D8D-4ACC-913C-9E7F00FD28B7}|LastWeb.csproj|d:\\repositories\\-webproject\\lastweb\\views\\home\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3655D062-4D8D-4ACC-913C-9E7F00FD28B7}|LastWeb.csproj|solutionrelative:views\\home\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3655D062-4D8D-4ACC-913C-9E7F00FD28B7}|LastWeb.csproj|d:\\repositories\\-webproject\\lastweb\\modelsfrontend\\contactdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3655D062-4D8D-4ACC-913C-9E7F00FD28B7}|LastWeb.csproj|solutionrelative:modelsfrontend\\contactdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3655D062-4D8D-4ACC-913C-9E7F00FD28B7}|LastWeb.csproj|d:\\repositories\\-webproject\\lastweb\\views\\home\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3655D062-4D8D-4ACC-913C-9E7F00FD28B7}|LastWeb.csproj|solutionrelative:views\\home\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3655D062-4D8D-4ACC-913C-9E7F00FD28B7}|LastWeb.csproj|d:\\repositories\\-webproject\\lastweb\\modelsfrontend\\checkoutdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3655D062-4D8D-4ACC-913C-9E7F00FD28B7}|LastWeb.csproj|solutionrelative:modelsfrontend\\checkoutdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3655D062-4D8D-4ACC-913C-9E7F00FD28B7}|LastWeb.csproj|d:\\repositories\\-webproject\\lastweb\\modelsfrontend\\logindata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3655D062-4D8D-4ACC-913C-9E7F00FD28B7}|LastWeb.csproj|solutionrelative:modelsfrontend\\logindata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3655D062-4D8D-4ACC-913C-9E7F00FD28B7}|LastWeb.csproj|d:\\repositories\\-webproject\\lastweb\\modelsfrontend\\productdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3655D062-4D8D-4ACC-913C-9E7F00FD28B7}|LastWeb.csproj|solutionrelative:modelsfrontend\\productdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3655D062-4D8D-4ACC-913C-9E7F00FD28B7}|LastWeb.csproj|d:\\repositories\\-webproject\\lastweb\\modelsfrontend\\reviewdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3655D062-4D8D-4ACC-913C-9E7F00FD28B7}|LastWeb.csproj|solutionrelative:modelsfrontend\\reviewdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3655D062-4D8D-4ACC-913C-9E7F00FD28B7}|LastWeb.csproj|d:\\repositories\\-webproject\\lastweb\\modelsfrontend\\registrationdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3655D062-4D8D-4ACC-913C-9E7F00FD28B7}|LastWeb.csproj|solutionrelative:modelsfrontend\\registrationdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3655D062-4D8D-4ACC-913C-9E7F00FD28B7}|LastWeb.csproj|d:\\repositories\\-webproject\\lastweb\\modelsfrontend\\productquantity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3655D062-4D8D-4ACC-913C-9E7F00FD28B7}|LastWeb.csproj|solutionrelative:modelsfrontend\\productquantity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3655D062-4D8D-4ACC-913C-9E7F00FD28B7}|LastWeb.csproj|d:\\repositories\\-webproject\\lastweb\\modelsfrontend\\cartdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3655D062-4D8D-4ACC-913C-9E7F00FD28B7}|LastWeb.csproj|solutionrelative:modelsfrontend\\cartdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3655D062-4D8D-4ACC-913C-9E7F00FD28B7}|LastWeb.csproj|d:\\repositories\\-webproject\\lastweb\\views\\home\\thankspage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3655D062-4D8D-4ACC-913C-9E7F00FD28B7}|LastWeb.csproj|solutionrelative:views\\home\\thankspage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C53A478A-3DF4-4B37-9B97-896F7AA2B2D0}|..\\LastWeb.Domain\\LastWeb.Domain.csproj|d:\\repositories\\-webproject\\lastweb.domain\\modelsfrontend\\cartdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -53,150 +28,72 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "DockedWidth": 232,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ShopProducts.cs",
-              "DocumentMoniker": "D:\\Repositories\\-WebProject\\LastWeb\\ModelsFrontend\\ShopProducts.cs",
-              "RelativeDocumentMoniker": "ModelsFrontend\\ShopProducts.cs",
-              "ToolTip": "D:\\Repositories\\-WebProject\\LastWeb\\ModelsFrontend\\ShopProducts.cs",
-              "RelativeToolTip": "ModelsFrontend\\ShopProducts.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T15:20:20.245Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ProductData.cs",
-              "DocumentMoniker": "D:\\Repositories\\-WebProject\\LastWeb\\ModelsFrontend\\ProductData.cs",
-              "RelativeDocumentMoniker": "ModelsFrontend\\ProductData.cs",
-              "ToolTip": "D:\\Repositories\\-WebProject\\LastWeb\\ModelsFrontend\\ProductData.cs",
-              "RelativeToolTip": "ModelsFrontend\\ProductData.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T15:20:12.508Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LoginData.cs",
-              "DocumentMoniker": "D:\\Repositories\\-WebProject\\LastWeb\\ModelsFrontend\\LoginData.cs",
-              "RelativeDocumentMoniker": "ModelsFrontend\\LoginData.cs",
-              "ToolTip": "D:\\Repositories\\-WebProject\\LastWeb\\ModelsFrontend\\LoginData.cs",
-              "RelativeToolTip": "ModelsFrontend\\LoginData.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T15:20:09.277Z",
+              "DocumentIndex": 0,
+              "Title": "_LayoutPage1.cshtml",
+              "DocumentMoniker": "D:\\Repositories\\-WebProject\\LastWeb\\Views\\_LayoutPage1.cshtml",
+              "RelativeDocumentMoniker": "Views\\_LayoutPage1.cshtml",
+              "ToolTip": "D:\\Repositories\\-WebProject\\LastWeb\\Views\\_LayoutPage1.cshtml",
+              "RelativeToolTip": "Views\\_LayoutPage1.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAEoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-23T00:55:39.866Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "CheckOutData.cs",
-              "DocumentMoniker": "D:\\Repositories\\-WebProject\\LastWeb\\ModelsFrontend\\CheckOutData.cs",
-              "RelativeDocumentMoniker": "ModelsFrontend\\CheckOutData.cs",
-              "ToolTip": "D:\\Repositories\\-WebProject\\LastWeb\\ModelsFrontend\\CheckOutData.cs",
-              "RelativeToolTip": "ModelsFrontend\\CheckOutData.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T15:20:06.291Z",
+              "Title": "Shop.cshtml",
+              "DocumentMoniker": "D:\\Repositories\\-WebProject\\LastWeb\\Views\\Home\\Shop.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Shop.cshtml",
+              "ToolTip": "D:\\Repositories\\-WebProject\\LastWeb\\Views\\Home\\Shop.cshtml",
+              "RelativeToolTip": "Views\\Home\\Shop.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-23T07:52:32.772Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ContactData.cs",
-              "DocumentMoniker": "D:\\Repositories\\-WebProject\\LastWeb\\ModelsFrontend\\ContactData.cs",
-              "RelativeDocumentMoniker": "ModelsFrontend\\ContactData.cs",
-              "ToolTip": "D:\\Repositories\\-WebProject\\LastWeb\\ModelsFrontend\\ContactData.cs",
-              "RelativeToolTip": "ModelsFrontend\\ContactData.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T15:20:02.274Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ReviewData.cs",
-              "DocumentMoniker": "D:\\Repositories\\-WebProject\\LastWeb\\ModelsFrontend\\ReviewData.cs",
-              "RelativeDocumentMoniker": "ModelsFrontend\\ReviewData.cs",
-              "ToolTip": "D:\\Repositories\\-WebProject\\LastWeb\\ModelsFrontend\\ReviewData.cs",
-              "RelativeToolTip": "ModelsFrontend\\ReviewData.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T15:19:48.361Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ProductQuantity.cs",
-              "DocumentMoniker": "D:\\Repositories\\-WebProject\\LastWeb\\ModelsFrontend\\ProductQuantity.cs",
-              "RelativeDocumentMoniker": "ModelsFrontend\\ProductQuantity.cs",
-              "ToolTip": "D:\\Repositories\\-WebProject\\LastWeb\\ModelsFrontend\\ProductQuantity.cs",
-              "RelativeToolTip": "ModelsFrontend\\ProductQuantity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T15:15:50.327Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CartData.cs",
-              "DocumentMoniker": "D:\\Repositories\\-WebProject\\LastWeb\\ModelsFrontend\\CartData.cs",
-              "RelativeDocumentMoniker": "ModelsFrontend\\CartData.cs",
-              "ToolTip": "D:\\Repositories\\-WebProject\\LastWeb\\ModelsFrontend\\CartData.cs",
-              "RelativeToolTip": "ModelsFrontend\\CartData.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T15:15:46.762Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ThanksPage.cshtml",
-              "DocumentMoniker": "D:\\Repositories\\-WebProject\\LastWeb\\Views\\Home\\ThanksPage.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\ThanksPage.cshtml",
-              "ToolTip": "D:\\Repositories\\-WebProject\\LastWeb\\Views\\Home\\ThanksPage.cshtml",
-              "RelativeToolTip": "Views\\Home\\ThanksPage.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "D:\\Repositories\\-WebProject\\LastWeb\\Views\\Home\\Detail.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Detail.cshtml",
+              "ToolTip": "D:\\Repositories\\-WebProject\\LastWeb\\Views\\Home\\Detail.cshtml",
+              "RelativeToolTip": "Views\\Home\\Detail.cshtml",
+              "ViewState": "AQIAADoAAAAAAAAAAAAmwEQAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-22T15:05:23.445Z",
+              "WhenOpened": "2024-04-23T07:48:45.877Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "CartData.cs",
+              "DocumentMoniker": "D:\\Repositories\\-WebProject\\LastWeb.Domain\\ModelsFrontend\\CartData.cs",
+              "RelativeDocumentMoniker": "..\\LastWeb.Domain\\ModelsFrontend\\CartData.cs",
+              "ToolTip": "D:\\Repositories\\-WebProject\\LastWeb.Domain\\ModelsFrontend\\CartData.cs",
+              "RelativeToolTip": "..\\LastWeb.Domain\\ModelsFrontend\\CartData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T07:37:09.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\Repositories\\-WebProject\\LastWeb\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
               "ToolTip": "D:\\Repositories\\-WebProject\\LastWeb\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAH4AAAAqAAAA",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAAwGwAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T14:52:23.389Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "RegistrationData.cs",
-              "DocumentMoniker": "D:\\Repositories\\-WebProject\\LastWeb\\ModelsFrontend\\RegistrationData.cs",
-              "RelativeDocumentMoniker": "ModelsFrontend\\RegistrationData.cs",
-              "ToolTip": "D:\\Repositories\\-WebProject\\LastWeb\\ModelsFrontend\\RegistrationData.cs",
-              "RelativeToolTip": "ModelsFrontend\\RegistrationData.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T15:15:53.948Z",
+              "WhenOpened": "2024-04-22T21:15:43.732Z",
               "EditorCaption": ""
             }
           ]

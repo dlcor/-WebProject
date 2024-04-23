@@ -1,44 +1,49 @@
-﻿
+﻿@model LastWeb.Domain.ModelsFrontend.CheckOutData
+
 @{
     ViewBag.Title = "Checkout";
     Layout = "~/Views/_LayoutPage1.cshtml";
 }
 
-<!-- Checkout Start -->
-<div class="container-fluid">
-    <div class="row px-xl-5">
-        <div class="col-lg-8">
-            <h5 class="section-title position-relative text-uppercase mb-3"><span class="bg-secondary pr-3">Billing Address</span></h5>
-            <div class="bg-light p-30 mb-5">
-                <div class="row">
-                    <div class="col-md-6 form-group">
-                        <label>First Name</label>
-                        <input class="form-control" type="text" placeholder="John">
-                    </div>
-                    <div class="col-md-6 form-group">
-                        <label>Last Name</label>
-                        <input class="form-control" type="text" placeholder="Doe">
-                    </div>
-                    <div class="col-md-6 form-group">
-                        <label>E-mail</label>
-                        <input class="form-control" type="text" placeholder="example@email.com">
-                    </div>
-                    <div class="col-md-6 form-group">
-                        <label>Mobile No</label>
-                        <input class="form-control" type="text" placeholder="+123 456 789">
+@using (Html.BeginForm("CheckOut", "Home", FormMethod.Post))
+{
+    <div class="container-fluid">
+        <div class="row px-xl-5">
+            <div class="col-lg-8">
+                <h5 class="section-title position-relative text-uppercase mb-3"><span class="bg-secondary pr-3">Billing Address</span></h5>
+                <div class="bg-light p-30 mb-5">
+                    <div class="row">
+                        <div class="col-md-6 form-group">
+                            @Html.LabelFor(model => model.Name)
+                            @Html.TextBoxFor(model => model.Name, new { @class = "form-control", placeholder = "John" })
+                            @Html.ValidationMessageFor(model => model.Name)
+                        </div>
+                        <div class="col-md-6 form-group">
+                            @Html.LabelFor(model => model.Surname)
+                            @Html.TextBoxFor(model => model.Surname, new { @class = "form-control", placeholder = "Doe" })
+                            @Html.ValidationMessageFor(model => model.Surname)
+                        </div>
+                        <div class="col-md-6 form-group">
+                            @Html.LabelFor(model => model.Email)
+                            @Html.TextBoxFor(model => model.Email, new { @class = "form-control", placeholder = "example@email.com" })
+                            @Html.ValidationMessageFor(model => model.Email)
+                        </div>
+                        <div class="col-md-6 form-group">
+                            @Html.LabelFor(model => model.Phone)
+                            @Html.TextBoxFor(model => model.Phone, new { @class = "form-control", placeholder = "+123 456 789" })
+                            @Html.ValidationMessageFor(model => model.Phone)
+                        </div>
                     </div>
                 </div>
             </div>
-        </div>
-        <div class="col-lg-4">
-            <h5 class="section-title position-relative text-uppercase mb-3"><span class="bg-secondary pr-3">Order</span></h5>
-            <div class=" mb-5">
-            </div>
-            <div class="mb-5">
-                <button class="btn btn-block btn-primary font-weight-bold py-3">Place Order</button>
+            <div class="col-lg-4">
+                <h5 class="section-title position-relative text-uppercase mb-3"><span class="bg-secondary pr-3">Order</span></h5>
+                <div class=" mb-5">
+                </div>
+                <div class="mb-5">
+                    <button type="submit" class="btn btn-block btn-primary font-weight-bold py-3">Place Order</button>
+                </div>
             </div>
         </div>
     </div>
-</div>
-    </div>
-<!-- Checkout End -->
+}

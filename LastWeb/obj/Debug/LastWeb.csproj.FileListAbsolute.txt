@@ -214,3 +214,5 @@ D:\Repositories\-WebProject\LastWeb\obj\Debug\LastWeb.csproj.CoreCompileInputs.c
 D:\Repositories\-WebProject\LastWeb\obj\Debug\LastWeb.csproj.Up2Date
 D:\Repositories\-WebProject\LastWeb\obj\Debug\LastWeb.dll
 D:\Repositories\-WebProject\LastWeb\obj\Debug\LastWeb.pdb
+D:\Repositories\-WebProject\LastWeb\bin\LastWeb.Domain.dll
+D:\Repositories\-WebProject\LastWeb\bin\LastWeb.Domain.pdb

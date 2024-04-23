@@ -147,21 +147,9 @@
   <ItemGroup>
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\HomeController.cs" />
-    <Compile Include="Enums\SortByGenre.cs" />
-    <Compile Include="Enums\SortByPrice.cs" />
-    <Compile Include="Enums\User.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
-    <Compile Include="ModelsFrontend\CartData.cs" />
-    <Compile Include="ModelsFrontend\CheckOutData.cs" />
-    <Compile Include="ModelsFrontend\ContactData.cs" />
-    <Compile Include="ModelsFrontend\ProductQuantity.cs" />
-    <Compile Include="ModelsFrontend\ReviewData.cs" />
-    <Compile Include="ModelsFrontend\ShopProducts.cs" />
-    <Compile Include="ModelsFrontend\LoginData.cs" />
-    <Compile Include="ModelsFrontend\ProductData.cs" />
-    <Compile Include="ModelsFrontend\RegistrationData.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -278,6 +266,12 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\LastWeb.Domain\LastWeb.Domain.csproj">
+      <Project>{c53a478a-3df4-4b37-9b97-896f7aa2b2d0}</Project>
+      <Name>LastWeb.Domain</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

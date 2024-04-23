@@ -4,6 +4,8 @@
     Layout = "~/Views/_LayoutPage1.cshtml";
 }
 
+@model LastWeb.Domain.ModelsFrontend.CartData
+
 <!-- Cart Start -->
 <div class="container-fluid">
     <div class="row px-xl-5">
@@ -17,11 +19,18 @@
                     </tr>
                 </thead>
                 <tbody class="align-middle">
-                    <tr>
-                        <td class="align-middle"><img src="~/Assets/img/product-1.jpg" alt="" style="width: 50px;"> Product Name</td>
-                        <td class="align-middle">$150</td>
-                        <td class="align-middle"><button class="btn btn-sm btn-danger"><i class="fa fa-times"></i></button></td>
-                    </tr>
+                    @if (Model != null && Model.Products.Count > 0)
+                    {
+                        foreach (var it in Model.Products)
+                        {
+                            <tr>
+                                <td class="align-middle"><img src="~/Assets/img/product-1.jpg" alt="" style="width: 50px;">@it.ProductData.Name</td>
+                                <td class="align-middle">$@it.ProductData.Price x @it.Quantity</td>
+                                <td class="align-middle"><button class="btn btn-sm btn-danger"><i class="fa fa-times"></i></button></td>
+                            </tr>
+                        }
+                    }
+
 
                 </tbody>
             </table>
